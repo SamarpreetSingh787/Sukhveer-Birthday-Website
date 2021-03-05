@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.sv{
+    border-style: solid;
+    margin: 10px;
+}
